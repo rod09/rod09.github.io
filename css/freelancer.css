@@ -69,7 +69,7 @@ hr.star-primary:after {
 }
 header {
   text-align: center;
-  background: #03a9f4 url('mountains.jpg') no-repeat;
+  background: #03a9f4;
   color: white;
 }
 header .container {
